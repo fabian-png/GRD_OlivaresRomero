@@ -1,0 +1,1 @@
+El monitoreo de redes es una pracrtica que consiste en supervisar constantemente una red informatica en busca de fallas o de deficiencias para garantizar el rendimiento continuo de la red 
